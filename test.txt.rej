@@ -1,0 +1,11 @@
+diff a/test.txt b/test.txt	(rejected hunks)
+@@ -3,4 +3,7 @@
+ 次のテスト２
+ さらに次のテスト
+ もひとつテスト
+-さらに次のテスト
+\ No newline at end of file
++さらに次のテスト
++もひとつテスト
++もひとつテスト
++もひとつテスト
